@@ -1,0 +1,12 @@
+body{
+    background-color: lightblue;
+}
+
+li{
+    display: inline-block;
+    height: 50px;
+    width: 100px;
+    list-style-type: none;
+}
+
+
